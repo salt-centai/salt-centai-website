@@ -6,11 +6,14 @@ role: pi
 aliases:
   - G. De Francisci Morales
   - G. D. F. Morales
+  - G D F Morales
 links:
+  home-page: http://gdfm.me
+  email: gdfm@centai.eu
   orcid: 0000-0002-2415-494X
-  email: gdfm@acm.org
   twitter: gdfm7
 ---
+
 My name is Gianmarco De Francisci Morales and I work as Principal Researcher at CENTAI, where I lead the Social Algorithmics Team (SALT). In the past I worked as Senior Research Scientist at ISI Foundation, Scientist at QCRI, as Visiting Scientist at Aalto University, as Research Scientist at Yahoo Labs, and as Research Associate at the HPC Lab of ISTI-CNR.
 
 I hold a Ph.D. in CSE (Computer Science and Engineering) from IMT Lucca, and Master’s and Bachelor’s degrees in Computer Engineering from University of Catania.
