@@ -1,12 +1,11 @@
 ---
 name: Gianmarco De Francisci Morales
-image: images/member.jpg
+image: images/gdfm.jpg
 description: Principal Researcher & Team Lead
 role: pi
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - G. De Francisci Morales
+  - G. D. F. Morales
 links:
   orcid: 0000-0002-2415-494X
   email: gdfm@acm.org
