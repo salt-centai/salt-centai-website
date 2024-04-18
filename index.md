@@ -6,22 +6,20 @@ title: Home
 
 [Social Algorithmics Team (SALT)](https://salt-centai.github.io)
 
-{%
-  include link.html
-  type="CENTAI"
-  icon=""
-  text="CENTAI"
-  link="https://centai.eu"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
 
-
 {% include section.html %}
 
 # Highlights
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: programmer"
+%}
 
 {% capture text %}
 The Social Algorithmics Team at CENTAI works at the intersection of Computational Social Science, Data Mining, and Machine Learning.
