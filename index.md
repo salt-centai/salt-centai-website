@@ -14,6 +14,7 @@ title: Home
 
 # Highlights
 
+{% include section.html %}
 {%
   include list.html
   data="members"
